@@ -11,9 +11,6 @@ I work in Artificial Intelligence and Machine Learning, with a strong focus on r
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=watcher2105&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=watcher2105&icon=0&color=1)](https://visitcount.itsvg.in)
 
